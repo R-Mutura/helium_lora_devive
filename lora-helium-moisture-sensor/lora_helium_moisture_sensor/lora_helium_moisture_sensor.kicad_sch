@@ -4725,7 +4725,7 @@
   (symbol (lib_id "GCL_Modules&Devboards:HELTEC_WIRELESS_STICK_LITE") (at 119.38 49.53 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 405f6d9d-5db6-41d3-9959-949cc714120a)
-    (property "Reference" "U?" (id 0) (at 115.57 88.9 90)
+    (property "Reference" "U2" (id 0) (at 115.57 88.9 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "HELTEC_WIRELESS_STICK_LITE" (id 1) (at 118.11 88.9 90)
@@ -5091,7 +5091,7 @@
       (reference "U1") (unit 3) (value "LM358") (footprint "")
     )
     (path "/405f6d9d-5db6-41d3-9959-949cc714120a"
-      (reference "U?") (unit 1) (value "HELTEC_WIRELESS_STICK_LITE") (footprint "")
+      (reference "U2") (unit 1) (value "HELTEC_WIRELESS_STICK_LITE") (footprint "")
     )
   )
 )
